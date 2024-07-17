@@ -13,6 +13,7 @@ list_of_files = [
     "setup.py",
     "research/trails.ipynb",
     "app.py"
+
 ]
 
 for filepath in list_of_files:
