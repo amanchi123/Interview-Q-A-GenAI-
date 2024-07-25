@@ -1,29 +1,15 @@
 # Interview-Q-A-GenAI-
 
-## Github commands:
+Developed an AI-powered tool designed for generating and managing interview question-answer pairs.
 
-'''bash
-1. git clone https://github.com/
-'''
+Tools and Frameworks Used:
 
-## Create an evironment::
-
-'''bash
-conda create -n interview python=3.10 -y
-'''
-
-## Activate th environment:
-
-'''bash
-
-1. conda activate interview
-2. git add .
-3. git commit -m "readme updated"
-
-'''
-## Install requirements:
-''' bash
-
-pip install -r requirements.txt
-
-'''
+Development Environment: Conda and Visual Studio Code (VSCode)
+Version Control: Git
+LLM: OpenAI (Model: GPT-3.5-turbo)
+Embeddings: OpenAI Embeddings
+Framework: LangChain
+User Interface : FastAPI
+Design: HTML Templates
+Vector Database: FAISS
+Deployment: AWS EC2
